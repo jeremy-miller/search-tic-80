@@ -1,2 +1,2 @@
-# search-tic-80
-Various search algorithms visualized on the TIC-80 fantasy console
+# Search Algorithms
+Various search algorithms visualized on the [TIC-80](https://tic80.com/) fantasy console.
