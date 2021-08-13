@@ -14,3 +14,9 @@ Using Manhattan distance to the goal as the heuristic.
 
 Available to play in the browser [here](https://tic80.com/play?cart=2096).
 ![preview-best](./preview-best.gif)
+
+## [A* Search](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+Using Manhattan distance from the start + Manhattan distance to the goal as the heuristic.
+
+Available to play in the browser [here](https://tic80.com/play?cart=2097).
+![preview-a-star](./preview-a-star.gif)
