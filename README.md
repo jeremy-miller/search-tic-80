@@ -1,5 +1,5 @@
 # Search Algorithms
-Various search algorithms visualized on the [TIC-80](https://tic80.com/) fantasy console.
+Various search algorithms visualized for the [TIC-80](https://tic80.com/) fantasy console.
 
 ## [Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 Available to play in the browser [here](https://tic80.com/play?cart=2094).
