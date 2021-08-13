@@ -3,3 +3,6 @@ Various search algorithms visualized on the [TIC-80](https://tic80.com/) fantasy
 
 ## Breadth-First Search
 ![preview-bfs](./preview-bfs.gif)
+
+## Depth-First Search
+![preview-dfs](./preview-dfs.gif)
